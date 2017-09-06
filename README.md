@@ -1,5 +1,4 @@
 # Flower-Recognition
-initially execute help.py which is used for training!
-python help.py
-then 
-python train.py
+It uses the Random forest classifier to identify the flowers.The training process is done on the basis of HOG features of the flowers.
+First run the help.py which is code for training the classifier.
+Now run final.py which is the code for classifying the flower.
